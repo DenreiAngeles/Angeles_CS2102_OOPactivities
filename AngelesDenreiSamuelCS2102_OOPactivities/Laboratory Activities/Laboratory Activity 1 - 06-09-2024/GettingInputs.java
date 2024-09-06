@@ -4,7 +4,10 @@ public class GettingInputs {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the year: ");
         int year = input.nextInt();
+<<<<<<< HEAD
         input.nextLine();
+=======
+>>>>>>> d146ce9676a4f8551e6be55fd13b33c3bf42414b
         System.out.print("Enter the genre: ");
         String genre = input.nextLine();
         System.out.print("Enter the album: ");
