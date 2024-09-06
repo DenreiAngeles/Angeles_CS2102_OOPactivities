@@ -3,7 +3,7 @@ public class GettingInputs {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the year: ");
-        int year = input.nextLine();
+        int year = input.nextInt();
         System.out.print("Enter the genre: ");
         String genre = input.nextLine();
         System.out.print("Enter the album: ");
