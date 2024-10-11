@@ -22,15 +22,15 @@ public class Car {
     } 
 
     public void setColor(String color) {
-        this.color = color;
+        this.color = getColor();
     }
 
     public void setPrice(double price) {
-        this.price = price;
+        this.price = getPrice();
     }
 
     public void setSize(char size) {
-        this.size = Character.toUpperCase(size);
+        this.size = getSize();
     }
 
     public String toString() {
@@ -52,7 +52,7 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car car1 = new Car("red", 700234.75, 'L');
+        Car car1 = new Car("red", 700234.75, 'm');
 
         System.out.println(car1.toString());
     }
