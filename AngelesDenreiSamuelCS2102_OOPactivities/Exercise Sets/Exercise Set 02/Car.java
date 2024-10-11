@@ -6,7 +6,7 @@ public class Car {
     public Car(String color, double price, char size) {
         this.color = color;
         this.price = price;
-        this.size = size;
+        this.size = Character.toUpperCase(size);
     }
 
     public String getColor() {
