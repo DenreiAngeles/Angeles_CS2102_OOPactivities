@@ -3,10 +3,10 @@ public class Car {
     private double price;
     private char size;
     
-    public Car() {
-        color = "ColorNotSet";
-        price = 0.00;
-        size = 'N';
+    public Car(String color, double price, char size) {
+        this.color = color;
+        this.price = price;
+        this.size = size;
     }
 
     public String getColor() {
@@ -52,11 +52,7 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car car1 = new Car();
-
-        car1.setColor("red");
-        car1.setPrice(700234.75);
-        car1.setSize('L');
+        Car car1 = new Car("red", 700234.75, 'L');
 
         System.out.println(car1.toString());
     }
