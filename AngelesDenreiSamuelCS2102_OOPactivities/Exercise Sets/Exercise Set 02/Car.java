@@ -52,7 +52,7 @@ public class Car {
     }
 
     public static void main(String[] args) {
-        Car car1 = new Car("red", 700234.75, 'm');
+        Car car1 = new Car("white", 700234.75, 'm');
 
         System.out.println(car1.toString());
     }
