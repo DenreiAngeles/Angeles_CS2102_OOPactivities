@@ -16,6 +16,8 @@ The primary goals of this repository are to:
 
 Below is a checklist of activities included in this repository. You can use this list to track progress as you complete or review each activity:
 
+Note: Just put 'x' inside the "[ ]" space to add a check on the checklist.
+
 ### Exercise Sets
 #### 📂 [Exercise Set 01](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001)
 - [ ] [Ecseq.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001/Escseq.java)
