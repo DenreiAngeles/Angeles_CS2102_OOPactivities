@@ -8,9 +8,9 @@ This repository contains my activities and exercises for the **CS211 Object-Orie
 
 The primary goals of this repository are to:  
 
-- ⚖️ **Contrast** procedural/functional programming with object-oriented programming to address complex computing challenges.  
-- 🧩 **Implement** key object-oriented concepts such as abstraction, encapsulation, inheritance, and polymorphism in software development and computer science applications.  
-- 🖥️ **Leverage** Java features, including objects, classes, methods, data types, control flow, arrays, and core OOP principles, to design and develop comprehensive and maintainable applications.  
+- ⚖️ To **tackle** complicated computer difficulties, compare procedural/functional programming to object-oriented programming.
+- 🧩 **Use** object-oriented ideas like abstraction, encapsulation, inheritance, and polymorphism in software and computer science applications.
+- 🖥️ **Use** Java features like objects, classes, methods, data types, control flow, arrays, and core OOP principles to create robust and maintainable applications. 
 
 ## ✅ Activity Checklist  
 
