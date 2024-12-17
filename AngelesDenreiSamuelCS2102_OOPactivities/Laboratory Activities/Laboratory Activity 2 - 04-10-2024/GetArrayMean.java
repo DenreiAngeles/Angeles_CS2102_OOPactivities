@@ -19,7 +19,7 @@ public class GetArrayMean {
             arr[i] = input.nextInt();
         }
         float mean = getArrayMean(arr);
-        System.out.println("Mean of array is: mean: " + String.format("%.2f", mean));
+        System.out.println("Mean of array is: " + String.format("%.2f", mean));
         input.close();
     }
 }
