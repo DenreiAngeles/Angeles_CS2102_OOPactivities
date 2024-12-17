@@ -30,23 +30,23 @@ Below is a checklist of activities included in this repository. You can use this
 
 ### Laboratory Activities
 #### ✏️ [Laboratory Activity 1: [06/09/2024]](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024)
-- Java Files
+- **Java Files**
     - [ ] [GettingGreater.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/GettingGreater.java)
     - [ ] [GettingInputs.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/GettingInputs.java)
-- Outputs
+- **Outputs**
     - [ ] [GettingGreater_output](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/GettingGreater_output.png)
     - [ ] [GettingInputs_output](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%201%20-%2006-09-2024/GettingInputs_output.png)
 
 #### ✏️ [Laboratory Activity 2: [06/09/2024]](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024)
-- Java Files
+- **Java Files**
     - [ ] [GetArrayMean.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/GetArrayMean.java)
     - [ ] [MultiplicationTable.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/MultiplicationTable.java)
-- Outputs
+- **Outputs**
     - [ ] [GetArrayMean_output](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/GetArrayMean_output.png)
     - [ ] [MultiplicationTable_output](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%202%20-%2004-10-2024/MultiplicationTable_output.png)
 
 #### ✏️ [Laboratory Activity 3: [06/09/2024]](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024)
-- Artists
+- **Artists**
     - [ ] [Artist.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/Artist.java)
     - [ ] [ArtistDemo.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/ArtistDemo.java)
     - [ ] [Dancer.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/Dancer.java)
@@ -54,7 +54,7 @@ Below is a checklist of activities included in this repository. You can use this
     - [ ] [Singer.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/Singer.java)
     - [ ] [Writer.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Artists/Writer.java)
 
-- Outputs
+- **Outputs**
     - [ ] [Artist.png](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Output%20Screenshots/Artist.png)
     - [ ] [Dancer.png](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Output%20Screenshots/Dancer.png)
     - [ ] [Painter.png](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Output%20Screenshots/Painter.png)
@@ -62,14 +62,14 @@ Below is a checklist of activities included in this repository. You can use this
     - [ ] [Writer.png](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%203%20-%2022-11-2024/Output%20Screenshots/Writer.png)
 
 #### ✏️ [Laboratory Activity 4: [06/09/2024]](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024)
-- Java Files
+- **Java Files**
     - [ ] [Main.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Main.java)
     - [ ] [Rectangle.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Rectangle.java)
     - [ ] [Shape.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Shape.java)
     - [ ] [ShapeCollection.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/ShapeCollection.java)
     - [ ] [Square.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Square.java)
     - [ ] [Triangle.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Triangle.java)
-- Output
+- **Output**
     - [ ] [Lab4_output](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Laboratory%20Activities/Laboratory%20Activity%204%20-%2029-11-2024/Lab4-output.png)
 
 
@@ -77,17 +77,18 @@ Below is a checklist of activities included in this repository. You can use this
 
 If you are reviewing this, you are encouraged to:  
 
-1. **📂 Clone the Repository**: Clone the repository to your local machine using the following command:  
-   ```bash  
-   git clone https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities.git
+1. **📂 Clone the Repository**: Clone the repository to your local machine by doing the following:  
+   - Launch VS Code and open the command palette. Press `Ctrl+Shift+P`(Windows) or `Command+shift+P` (Mac) to open it.
+   - Type `Git: Clone` in the command palette and select it from the list of suggestions
+   - Copy and paste the following then hit Enter:
+   ``` bash
+   https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities.git
    ```
-2. 📁 **Navigate to the Activities Directory**: Change to the directory containing the activities:
-   ```bash  
-   cd Angeles_CS2102_OOPactivities/AngelesDenreiSamuelCS2102_OOPactivities 
-   ```
-3. 🔍 Review Individual Activities: Each activity is contained within its own subdirectory. Review the code files and accompanying documentation within each subdirectory to assess the implementation and adherence to OOP principles.
-4. ✅ Mark Progress: Check off activities in the checklist above as you complete your review.
-5. 💬 Provide Feedback: Constructive feedback is highly appreciated. Please open issues or submit pull requests for any suggestions, improvements, or corrections.
+   - Select the destination of where you want to clone the repository.
+   - Open the cloned repository.
+2. 🔍 **Review Individual Activities**: Each activity is contained within its own subdirectory. Review the code files and accompanying documentation within each subdirectory to assess the implementation and adherence to OOP principles.
+3. ✅ **Mark Progress**: Check off activities in the checklist above as you complete your review.
+4. 💬 **Provide Feedback**: Constructive feedback is highly appreciated. Please open issues or submit pull requests for any suggestions, improvements, or corrections.
 
 ## 📬 Contact
 For any questions or further information, please contact me here!
