@@ -18,7 +18,7 @@ Below is a checklist of activities included in this repository. You can use this
 
 ### Exercise Sets
 #### 📂 [Exercise Set 01](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/tree/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001)
-- [ ] [Ecseq.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001/Escseq.java)
+- [x] [Ecseq.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001/Escseq.java)
 - [ ] [Tempconvert.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001/Tempconvert.java)
 - [ ] [Welcome.java](https://github.com/DenreiAngeles/Angeles_CS2102_OOPactivities/blob/main/AngelesDenreiSamuelCS2102_OOPactivities/Exercise%20Sets/Exercise%20Set%2001/Welcome.java)
 
